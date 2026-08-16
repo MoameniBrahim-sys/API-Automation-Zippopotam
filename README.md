@@ -14,4 +14,8 @@ Zippopotam API Automation FrameworkThis project is an API test automation framew
 
 
 To run the tests using Playwright's interactive UI mode:Bashnpx playwright test --ui
-🧪 Test Scenarios CoveredTC01: Verify that entering a valid country code and postal code returns a 200 status code and the correct response body.  TC02: Verify that entering an invalid postal code returns a 404 status code.  TC03: Verify that entering an invalid country code returns a 404 status code[cite: 2].
+
+🧪 Test Scenarios Covered
+TC01: Verify that entering a valid country code and postal code returns a 200 status code and the correct response body.  
+TC02: Verify that entering an invalid postal code returns a 404 status code.  
+TC03: Verify that entering an invalid country code returns a 404 status code[cite: 2].
